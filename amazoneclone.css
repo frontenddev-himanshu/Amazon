@@ -4,6 +4,8 @@
     border: border-box;
 }
 
+/* navbar1 */
+
 .navbar{
     height: 60px;
     background-color: #0f1111;
@@ -107,6 +109,8 @@ span{
     font-weight: 700;
 }
 
+/* navbar2 */
+
 .panel{
     background-color: #222f3d;
     color: white;
@@ -129,6 +133,8 @@ span{
 .panel-deal{
     font-weight: 600;
 }
+
+/* hero section */
 
 .herosec{
     background-image: url(hero_image.jpg);
@@ -154,6 +160,8 @@ span{
 .hero-message a {
  color: #007185;
 }
+
+/* shop section */
 
 .shop-sec
 {
@@ -188,6 +196,8 @@ span{
     color: #007185;
 }
 
+/* footer section */
+
 footer{
     margin-top: 15px;
 }
@@ -220,6 +230,9 @@ ul a {
     margin-top: 10px;
     color: #dddddd;
 }
+
+/*logo section*/
+
 .foot-3{
     background-color: #222f3d;
     border-top: 1px solid white;
@@ -228,6 +241,8 @@ ul a {
     justify-content: center;
     align-items: center;
 }
+
+/* last footer section */
 
 .foot-4{
     height: 70px;
